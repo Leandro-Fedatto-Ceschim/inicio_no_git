@@ -1,1 +1,2 @@
 Nesta Pagina-2.txt, vou aprender sobre o HEAD.
+Adicionei essa linha no ramo master, voltando do ramo alteração
