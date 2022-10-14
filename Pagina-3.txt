@@ -1,1 +1,2 @@
 Qualquer coisa
+Esta linha foi modificada no ramo alteração
